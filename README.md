@@ -10,6 +10,8 @@
 
 [![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.gg/zxKYvhSnVp?WT.mc_id=academic-000002-leestott)
 
+After completing it consider visiting this: https://microsoft.github.io/ML-For-Beginners/#/
+
 # Machine Learning for Beginners - A Curriculum
 
 > 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
